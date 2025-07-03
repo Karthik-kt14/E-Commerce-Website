@@ -99,18 +99,6 @@ We welcome contributions to improve or extend this project.
 3. Make your changes and commit (`git commit -m 'Add new feature'`)
 4. Push to your forked repo (`git push origin feature/your-feature`)
 5. Submit a Pull Request ✅
-
----
-
-## 📬 Contact
-
-For questions, suggestions, or feedback:
-
-* **Name:** Karthik
-* [**GitHub**](https://github.com/Karthik7-hub)
-* [**Email**](mailto:vkarthik4321@gmail.com.com)
-* [**LinkedIn**](https://www.linkedin.com/in/vana-karthik-36aa25290/)
-
 ---
 
 ## 📝 License
