@@ -1,11 +1,6 @@
 # E-Commerce-Website
-# INTERNPE_TASK2_E_COMMERCE_WEBSITE
+# E-COMMERCE WEBSITE
 
-Welcome to the official repository for **INTERNPE Task 2**, where i build a fully responsive and interactive **e-commerce website** using **HTML, CSS, and JavaScript**.
-
-This project is part of the **InternPe Web Development Internship** and demonstrates essential front-end skills such as product rendering, UI design, cart functionality, and responsive layouts.
-
----
 
 ## 📍 Project Overview
 
